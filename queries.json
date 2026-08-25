@@ -1,0 +1,24 @@
+{
+  "queries": [
+    {
+      "query_id": "Q1",
+      "question": "How long is event data retained on the standard plan?",
+      "expected_document": "product_overview.txt"
+    },
+    {
+      "query_id": "Q2",
+      "question": "Does the product support SCIM provisioning?",
+      "expected_document": "product_overview.txt"
+    },
+    {
+      "query_id": "Q3",
+      "question": "Can customers get refunds for unused days in a month?",
+      "expected_document": "billing.txt"
+    },
+    {
+      "query_id": "Q4",
+      "question": "Is the service HIPAA compliant?",
+      "expected_document": "security.txt"
+    }
+  ]
+}

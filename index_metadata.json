@@ -1,0 +1,18 @@
+{
+  "retrieval_mode": "bm25",
+  "total_chunks": 4,
+  "total_documents": 3,
+  "document_names": [
+    "billing.txt",
+    "product_overview.txt",
+    "security.txt"
+  ],
+  "vocabulary_size": 120,
+  "average_chunk_length_words": 46.0,
+  "supported_modes": [
+    "bm25",
+    "vector",
+    "hybrid"
+  ],
+  "created_at": "2026-08-25T07:32:07.565197+00:00"
+}

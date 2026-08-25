@@ -1,0 +1,38 @@
+[
+  {
+    "query_id": "Q1",
+    "answer": "for 13 months on the standard plan and 36 months on the enterprise plan",
+    "label": "supported",
+    "citations": [
+      "product_overview_chunk_0"
+    ],
+    "reasoning_summary": "Directly grounded in product_overview_chunk_0 which specifies the retention period for standard plans."
+  },
+  {
+    "query_id": "Q2",
+    "answer": "Authentication supports email-password, SSO via SAML, and SCIM provisioning on enterprise plans",
+    "label": "supported",
+    "citations": [
+      "product_overview_chunk_1"
+    ],
+    "reasoning_summary": "Directly grounded in product_overview_chunk_1 which mentions SCIM provisioning support on enterprise plans."
+  },
+  {
+    "query_id": "Q3",
+    "answer": "Refunds are not offered for partial months, except where required by law",
+    "label": "supported",
+    "citations": [
+      "billing_chunk_0"
+    ],
+    "reasoning_summary": "Directly grounded in billing_chunk_0 stating refund policy for partial months."
+  },
+  {
+    "query_id": "Q4",
+    "answer": "The service is not described as HIPAA compliant in current public documentation",
+    "label": "supported",
+    "citations": [
+      "security_chunk_0"
+    ],
+    "reasoning_summary": "Directly grounded in security_chunk_0 confirming lack of public HIPAA compliance claim."
+  }
+]

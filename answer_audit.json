@@ -1,0 +1,34 @@
+[
+  {
+    "query_id": "Q1",
+    "audit_label": "pass",
+    "support_assessment": "Answer is solidly grounded in the final context (100% key term alignment).",
+    "citation_check": "Pass: Citations correctly point to source chunks.",
+    "hallucination_risk": "low",
+    "recommended_fix": "None needed."
+  },
+  {
+    "query_id": "Q2",
+    "audit_label": "pass",
+    "support_assessment": "Answer is solidly grounded in the final context (100% key term alignment).",
+    "citation_check": "Pass: Citations correctly point to source chunks.",
+    "hallucination_risk": "low",
+    "recommended_fix": "None needed."
+  },
+  {
+    "query_id": "Q3",
+    "audit_label": "pass",
+    "support_assessment": "Answer is solidly grounded in the final context (100% key term alignment).",
+    "citation_check": "Pass: Citations correctly point to source chunks.",
+    "hallucination_risk": "low",
+    "recommended_fix": "None needed."
+  },
+  {
+    "query_id": "Q4",
+    "audit_label": "pass",
+    "support_assessment": "Answer is solidly grounded in the final context (100% key term alignment).",
+    "citation_check": "Pass: Citations correctly point to source chunks.",
+    "hallucination_risk": "low",
+    "recommended_fix": "None needed."
+  }
+]

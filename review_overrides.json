@@ -1,0 +1,65 @@
+{
+  "overrides_count": 0,
+  "overrides": [
+    {
+      "query_id": "Q1",
+      "original_retrieved_chunk_ids": [
+        "product_overview_chunk_0",
+        "security_chunk_0",
+        "product_overview_chunk_1"
+      ],
+      "is_overridden": false,
+      "overridden_chunk_ids": [],
+      "final_context_chunk_ids": [
+        "product_overview_chunk_0",
+        "security_chunk_0",
+        "product_overview_chunk_1"
+      ]
+    },
+    {
+      "query_id": "Q2",
+      "original_retrieved_chunk_ids": [
+        "product_overview_chunk_1",
+        "product_overview_chunk_0",
+        "billing_chunk_0"
+      ],
+      "is_overridden": false,
+      "overridden_chunk_ids": [],
+      "final_context_chunk_ids": [
+        "product_overview_chunk_1",
+        "product_overview_chunk_0",
+        "billing_chunk_0"
+      ]
+    },
+    {
+      "query_id": "Q3",
+      "original_retrieved_chunk_ids": [
+        "billing_chunk_0",
+        "security_chunk_0",
+        "product_overview_chunk_0"
+      ],
+      "is_overridden": false,
+      "overridden_chunk_ids": [],
+      "final_context_chunk_ids": [
+        "billing_chunk_0",
+        "security_chunk_0",
+        "product_overview_chunk_0"
+      ]
+    },
+    {
+      "query_id": "Q4",
+      "original_retrieved_chunk_ids": [
+        "security_chunk_0",
+        "product_overview_chunk_0",
+        "billing_chunk_0"
+      ],
+      "is_overridden": false,
+      "overridden_chunk_ids": [],
+      "final_context_chunk_ids": [
+        "security_chunk_0",
+        "product_overview_chunk_0",
+        "billing_chunk_0"
+      ]
+    }
+  ]
+}
